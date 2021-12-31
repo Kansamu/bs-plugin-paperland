@@ -1,9 +1,9 @@
 {
-  "name": "",
-  "title": "",
+  "name": "PaperLand-info",
+  "title": "绘岛Studio插件",
   "version": "0.1.0",
-  "description": "",
-  "author": "",
+  "description": "用于提供皮肤站的新模块",
+  "author": "Kansamu216",
   "url": "",
   "namespace": "",
   "require": {
