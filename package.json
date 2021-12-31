@@ -7,7 +7,7 @@
   "url": "",
   "namespace": "",
   "require": {
-    "blessing-skin-server": "^5"
+    "blessing-skin-server": "*"
   },
   "enchants": {
     "config": "Configuration"
